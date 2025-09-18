@@ -1,10 +1,16 @@
 ## CHRONOMETRE
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Mon challenge était de construire un chronomètre. Pour démarrer le chronomètre, il suffit de cliquer sur le bouton "Start". Pour stopper le chronomètre, il faut cliquer sur le bouton "stop". Enfin, pour remettre à zéro le chronomètre, cliquez sur le bouton "reset".
 
-## Développez avec
+## Démonstration
+
+Lien vers le projet : https://aperbet56.github.io/chronometre/
+
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS
